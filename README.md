@@ -14,6 +14,18 @@ The project consists of three machine learning tasks:
 
 Each task includes data preprocessing, feature extraction where applicable, model training, hyperparameter tuning, evaluation on unseen test data, and comparison between models.
 
+## Team Members & Contributions
+
+| Member | Name | GitHub | Responsibilities |
+|---|---|---|---|
+| Member 1 | Jana (0xJana) | [@0xJana](GITHUB_PROFILE_LINK) | Numerical EDA & cleaning, Linear Regression, evaluation & plots, Linear Regression from Scratch ⭐, Numerical GUI |
+| Member 2 | Tasneem Khaled | [@Tasneem-Khaled](https://github.com/Tasneem-Khaled) | Numerical encoding & scaling, KNN Regressor & tuning, evaluation & plots, Ensemble ⭐, Image GUI |
+| Member 3 | Jana Darwish | [@janaadarwish](https://github.com/janaadarwish) | Image loading & resizing, Logistic Regression & tuning, model evaluation, K-Means & tuning |
+| Member 4 | Ahmed Hassan | [@Ahmed-Hassan2005](https://github.com/Ahmed-Hassan2005) | Image normalization & feature extraction, KNN Classifier & tuning, model evaluation, K-Means evaluation & Silhouette Score |
+| Member 5 | Abdulrahman Ahmed | [@AbdelrahmanAhmed301](https://github.com/AbdelrahmanAhmed301) | Text cleaning, Logistic Regression & tuning, model evaluation, Text GUI |
+| Member 6 | Abdulrahman Alwakeel | [@alwakeeeel](https://github.com/alwakeeeel) | TF-IDF, Linear SVM & tuning, model evaluation, final GUI integration |
+
+
 ## Project Objectives
 
 - Perform exploratory data analysis (EDA) on real-world datasets.

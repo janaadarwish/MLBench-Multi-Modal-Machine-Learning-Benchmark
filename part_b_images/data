@@ -1,0 +1,10 @@
+%pip install kagglehub
+     
+
+import kagglehub
+
+path = kagglehub.dataset_download("puneet6060/intel-image-classification")
+
+print("Dataset loaded!")
+print("Dataset path:", path)
+     
